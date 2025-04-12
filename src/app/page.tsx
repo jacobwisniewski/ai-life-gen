@@ -8,7 +8,8 @@ export default function Home() {
           Discover Your True Purpose
         </h1>
         <p className="text-xl text-center max-w-2xl">
-          Uncover what you truly want to do in life using proven methods like Warren Buffett's top 5 things and the Eisenhower Matrix.
+          Uncover what you truly want to do in life using proven methods like
+          Warren Buffett's top 5 things and the Eisenhower Matrix.
         </p>
         <Link
           href="/onboarding"
